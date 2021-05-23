@@ -1,0 +1,10 @@
+[
+  {
+    "labels": {
+      "job": "blackbox"
+    },
+    "targets": [
+      "monbn1namcrmlivesg651org0.crm.dynamics.com","org0.crm.dynamics.com"
+    ]
+  }
+]

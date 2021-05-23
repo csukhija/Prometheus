@@ -1,0 +1,10 @@
+[
+  {
+    "labels": {
+      "job": "blackbox"
+    },
+    "targets": [
+      "microsoft.com","Google.com"
+    ]
+  }
+]
